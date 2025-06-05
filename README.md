@@ -27,7 +27,7 @@ A responsive and interactive personal portfolio website built with *HTML, **CSS,
 
 ## 🌐 Demo
 
-Check out the live version of the website: [https://yourusername.github.io/writer-portfolio/](https://yourusername.github.io/writer-portfolio/)
+Check out the live version of the website: [https://ks-2004.github.io/writer-portfolio/](https://yourusername.github.io/writer-portfolio/)
 
 ---
 
