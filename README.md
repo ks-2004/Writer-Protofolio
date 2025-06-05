@@ -13,7 +13,6 @@ A responsive and interactive personal portfolio website built with *HTML, **CSS,
 * [Usage](#usage)
 * [Project Structure](#project-structure)
 * [Contributing](#contributing)
-* [License](#license)
 
 ---
 
