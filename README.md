@@ -45,7 +45,7 @@ To get a local copy up and running, follow these simple steps:
 1. Clone the repository:
 
    bash
-   git clone https://github.com/yourusername/writer-portfolio.git
+   git clone https://github.com/ks-2004/writer-portfolio.git
    
 
 
